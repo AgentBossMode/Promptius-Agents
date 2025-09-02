@@ -1,6 +1,6 @@
 {
     "graphs": {
-      "app" : "./app.py:app"
+      "app" : "./sample_agents/personalized_outbound_agent/app.py:app"
     },
     "python_version": "3.13",
     "dependencies": [
